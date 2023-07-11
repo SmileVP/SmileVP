@@ -1,4 +1,4 @@
-<img src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112" align="center" style="width: 100%" />
+<img src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112" align="center" style="width: 90%" />
 
 
 # 💫 About Me:
