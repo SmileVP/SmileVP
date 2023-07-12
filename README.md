@@ -1,5 +1,5 @@
 <div align="center" >
-<img controls autoplay src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112" align="center" style="width: 100%, z-index:2"  />
+<img controls autoplay src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112" align="center" style="width: 100%, z-index:-1"  />
 </div> 
 
 
