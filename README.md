@@ -1,4 +1,4 @@
-<img src="https://img.freepik.com/free-vector/female-programmer-doing-her-job-office_23-2148274929.jpg?w=740&t=st=1689156266~exp=1689156866~hmac=44b323dea66e13fb0c113a18e3ab33b8992a8a45a3e4281886e994a5f03040a7" align="center" style="width: 100%" />
+<img src="https://img.freepik.com/free-vector/programmer-working-with-css_52683-24172.jpg?w=740&t=st=1689156336~exp=1689156936~hmac=1ee0d34e90b03bfbcbdcf2ed1af55c4ff808b5e85719de20592830d08b8bcf30" align="center" style="width: 100%" />
 
 
 # 💫 About Me:
