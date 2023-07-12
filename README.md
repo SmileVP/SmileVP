@@ -1,4 +1,4 @@
-<img src="https://iconscout.com/lottie/girl-coding-in-computer-5736492" align="center" style="width:100%" />
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXhzYjBrd2N0ZTdwYWY4N2JsajU2NGtkMmZ4eXNwNm1ncjRkNXJsNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/JTVWACMOESFcA1oewp/giphy.gif" align="center" style="width:100%" />
 
 
 # 💫 About Me:
