@@ -1,4 +1,4 @@
-<img src="https://img.freepik.com/free-vector/woman-working-telecommuting-inside-house_23-2148503808.jpg?w=740&t=st=1689155768~exp=1689156368~hmac=61b95f16cdc1a29bdcea818e1cedbc17271961a1677473b60623d56227e83944" align="center" style="width: 100%, height: 200px" />
+<img src="https://img.freepik.com/free-vector/woman-working-telecommuting-inside-house_23-2148503808.jpg?w=740&t=st=1689155768~exp=1689156368~hmac=61b95f16cdc1a29bdcea818e1cedbc17271961a1677473b60623d56227e83944" align="center" style="width: 100%, height: 10%" />
 
 
 # 💫 About Me:
